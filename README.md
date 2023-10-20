@@ -25,5 +25,5 @@ Course Program (video links for POLIMI students):
   - Ex. 08 - Deployment Options ([video](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=d412e200d02c39565bffa8070d4c1f35))
   - Ex. 09 - Anomaly Detection with IMUs ([video](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=08296d15821794817883ecd7d54c8a58))
 - Seminars:
-  - Sem. 01 - ML Ethics - Lecturer: Prof. Viola Schiaffonati, Politecnico di Milano ([video](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=94836243d6ed4d0fa9bd587d5eed1733))
-  - Sem. 02 - A Generic IoT System - Lecturer: Prof. Roberto Vezzani, University of Modena and Reggio Emilia ([video](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=21e8f390930a54a2e89b64eabdc9b5e7))
+  - Sem. 01 - A Generic IoT System - Lecturer: Prof. Roberto Vezzani, University of Modena and Reggio Emilia ([video](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=21e8f390930a54a2e89b64eabdc9b5e7))
+  - Sem. 02 - ML Ethics - Lecturer: Prof. Viola Schiaffonati, Politecnico di Milano ([video](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=94836243d6ed4d0fa9bd587d5eed1733))
