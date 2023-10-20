@@ -7,7 +7,7 @@ Course Program (video links for POLIMI students):
 - 02 - Embedded and Edge Hardware ([video]())
 - 03 - Algorithms for Embedded and Edge AI 
 - 04 - Machine Learning for Embedded and Edge AI
-- Ex. 01 - Platform and firmware
+  - Ex. 01 - Platform and firmware
 - 05 - Deep learning for EEAI
 - 06 - Architectures for EEAI
 - Ex. 02 - Tensorflow and CNNs
