@@ -6,7 +6,7 @@ Course Program (video links for POLIMI students):
 - Lectures: 
   - 01 - Intro to the course ([video](https://politecnicomilano.webex.com/webappng/sites/politecnicomilano/recording/fd53888f94c0103b9b67005056812ecb/playback))
   - 02 - Embedded and Edge Hardware ([video](https://politecnicomilano.webex.com/webappng/sites/politecnicomilano/recording/5712a72c9653103b9d33005056829d03/playback))
-  - 03 - Algorithms for Embedded and Edge AI ([video1](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=1cfbd6a2386eb41cfd2f8f79e208f5d4), ([video2](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=bd324b94a28c06f2e127011917d7f18e)) )
+  - 03 - Algorithms for Embedded and Edge AI ([video1](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=1cfbd6a2386eb41cfd2f8f79e208f5d4), [video2](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=bd324b94a28c06f2e127011917d7f18e))
   - 04 - Machine Learning for Embedded and Edge AI ([video1](https://politecnicomilano.webex.com/recordingservice/sites/politecnicomilano/recording/ad1770ada541103bbffc005056811801/playback?from_login=true), [video2](https://politecnicomilano.webex.com/recordingservice/sites/politecnicomilano/recording/4433554aa6d4103bb7df005056814163/playback?from_login=true))
   - 05 - Deep learning for EEAI ([video](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=0bfcb3411f30f9cc60e0da0c1537bb9b))
   - 06 - Architectures for EEAI ([video](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=d8546dc96ee650fb56286623bbba01ca))
