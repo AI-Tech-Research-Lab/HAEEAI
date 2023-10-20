@@ -17,13 +17,17 @@ Course Program (video links for POLIMI students):
 - Exercise session: 
   - Ex. 01 - Platform and firmware ([video](https://politecnicomilano.webex.com/recordingservice/sites/politecnicomilano/recording/f70f7354a153103bbff3005056819912/playback?from_login=true))
   - Ex. 02 - Tensorflow and CNNs ([video](https://politecnicomilano.webex.com/recordingservice/sites/politecnicomilano/recording/5c6094d6ac54103bb69b00505681573b/playback))
-  - Ex. 03 - Data collection with Edge Impulse 
+    - [colab1](https://oreil.ly/NN6Mj), [colab2](https://colab.research.google.com/github/tinyMLx/colabs/blob/master/2-3-5-FashionMNISTConvolutions.ipynb#scrollTo=C0tFgT1MMKi6), [colab3](https://colab.research.google.com/github/tinyMLx/colabs/blob/master/2-3-9-AssignmentQuestion.ipynb)  
+  - Ex. 03 - Data collection with Edge Impulse
   - Ex. 04 - TinyML and TFL4M ([video](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=507656f23b037a526faaee6029cca24a))
+    - [colab](https://colab.research.google.com/github/tinyMLx/colabs/blob/master/3-3-7-RunningTFLiteModels.ipynb), [colab2](https://colab.research.google.com/github/tinyMLx/colabs/blob/master/3-3-10-TFLiteOptimizations.ipynb#scrollTo=0RTZmndkcZFP), [colab3](https://colab.research.google.com/github/tinyMLx/colabs/blob/master/3-3-12-QAT.ipynb#scrollTo=w7fztWsAOHTz), [Hands On](https://colab.research.google.com/drive/1vAXuU9bDbD90W6fnpx1crvbQrzpnOcaU?usp=sharing)
   - Ex. 05 - Keyword Spotting Training ([video](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=f426453cfddce08229bc31ce79f2493b))
   - Ex. 06 - Deploying Keyword Spotting ([video](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=72c921a33c9da58f0750bbd4cafde140))
   - Ex. 07 - Train and Deploy VWW ([video](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=0e1307d9cec01280715ffc380a8646d2))
+    - [colab](https://colab.research.google.com/drive/1dwGMx3OmzoOo0aGEpRYD7uRTVJc98iQh?usp=sharing)
   - Ex. 08 - Deployment Options ([video](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=d412e200d02c39565bffa8070d4c1f35))
   - Ex. 09 - Anomaly Detection with IMUs ([video](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=08296d15821794817883ecd7d54c8a58))
+    - [EdgeImpulse Repo](https://studio.edgeimpulse.com/public/231558/latest)
 - Seminars:
   - Sem. 01 - A Generic IoT System - Lecturer: Prof. Roberto Vezzani, University of Modena and Reggio Emilia ([video](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=21e8f390930a54a2e89b64eabdc9b5e7))
   - Sem. 02 - ML Ethics - Lecturer: Prof. Viola Schiaffonati, Politecnico di Milano ([video](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=94836243d6ed4d0fa9bd587d5eed1733))
