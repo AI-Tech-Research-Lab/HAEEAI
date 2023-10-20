@@ -3,7 +3,7 @@ This repository contains the material for the course "Hardware Architecture for 
 
 Course Program (video links for POLIMI students): 
 
--Lectures: 
+- Lectures: 
   - 01 - Intro to the course ([video](https://politecnicomilano.webex.com/webappng/sites/politecnicomilano/recording/fd53888f94c0103b9b67005056812ecb/playback))
   - 02 - Embedded and Edge Hardware ([video](https://politecnicomilano.webex.com/webappng/sites/politecnicomilano/recording/5712a72c9653103b9d33005056829d03/playback))
   - 03 - Algorithms for Embedded and Edge AI ([video1](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=1cfbd6a2386eb41cfd2f8f79e208f5d4), ([video2](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=bd324b94a28c06f2e127011917d7f18e)) )
