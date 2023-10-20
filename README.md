@@ -22,6 +22,7 @@ Course Program (video links for POLIMI students):
   - Ex. 04 - TinyML and TFL4M ([video](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=507656f23b037a526faaee6029cca24a))
     - [colab1](https://colab.research.google.com/github/tinyMLx/colabs/blob/master/3-3-7-RunningTFLiteModels.ipynb), [colab2](https://colab.research.google.com/github/tinyMLx/colabs/blob/master/3-3-10-TFLiteOptimizations.ipynb#scrollTo=0RTZmndkcZFP), [colab3](https://colab.research.google.com/github/tinyMLx/colabs/blob/master/3-3-12-QAT.ipynb#scrollTo=w7fztWsAOHTz), [Hands On](https://colab.research.google.com/drive/1vAXuU9bDbD90W6fnpx1crvbQrzpnOcaU?usp=sharing)
   - Ex. 05 - Keyword Spotting Training ([video](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=f426453cfddce08229bc31ce79f2493b))
+    - [colab](https://colab.research.google.com/drive/1YH6vXlDzzCRZOT-sLx50TNAE-LhVkcOK?usp=sharing)
   - Ex. 06 - Deploying Keyword Spotting ([video](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=72c921a33c9da58f0750bbd4cafde140))
   - Ex. 07 - Train and Deploy VWW ([video](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=0e1307d9cec01280715ffc380a8646d2))
     - [colab](https://colab.research.google.com/drive/1dwGMx3OmzoOo0aGEpRYD7uRTVJc98iQh?usp=sharing)
