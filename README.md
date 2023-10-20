@@ -18,7 +18,7 @@ Course Program (video links for POLIMI students):
 - Ex. 05 - Keyword Spotting Training
 - 09 - Learning in presence of concept drift
 - Sem. 01 - ML Ethics - Lecturer: Prof. Viola Schiaffonati, Politecnico di Milano
-- Sem. 02 - A Generic IoT System - Lecturer: Prof. Prof. Roberto Vezzani, University of Modena and Reggio Emilia
+- Sem. 02 - A Generic IoT System - Lecturer: Prof. Roberto Vezzani, University of Modena and Reggio Emilia
 - Ex. 06 - Deploying Keyword Spotting
 - 10 - Deep Learning for IoT
 - Ex. 07 - Train and Deploy VWW
