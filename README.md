@@ -1,4 +1,4 @@
-# HAEEAI
+# HAEEAI - Hardware Architectures for Embedded and Edge AI
 This repository contains the material for the course "Hardware Architecture for Embedded and Edge AI" - Prof. Roveri, Politecnico di Milano - 2022-2023
 
 Course Program (video links for POLIMI students): 
