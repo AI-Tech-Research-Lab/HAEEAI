@@ -4,4 +4,4 @@ The materials linked here are not provided nor double checked by the authors of 
 
 - [Notes of the Course by Mattia Morabito](https://github.com/Mattia9875/HHEAI-Notes/tree/main)
 
-We invite anybody who's done something related to the course and that could be useful to the wider public to share them with us.
+Sharing of materials and contributions by students related to this course that could be useful to a wider public is encouraged. Contact us if you would like your material to be linked here.
