@@ -3,7 +3,7 @@
 Some of the projects developed by the students for the course:
 
 - Smart Tennis Racket with Shot Recognition Capability  - Re, Cattaneo
-  - links: [slide & report & code](https://github.com/Fexcatta/SmartTennisRacket) - [video](https://www.youtube.com/watch?v=3WyLoOx5gWo)
+  - [slide & report & code](https://github.com/Fexcatta/SmartTennisRacket) - [video](https://www.youtube.com/watch?v=3WyLoOx5gWo)
 - RottenCAM - Morabito, Pallotto
   - [slide & report & code](https://github.com/Mattia9875/HwAi-linux)
 - BinBrain - Monti, Ventura
