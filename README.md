@@ -2,6 +2,7 @@
 This repository contains the material for the course "Hardware Architecture for Embedded and Edge AI" - Politecnico di Milano - 2022-2023
 
 Lecturer: Prof. [Manuel Roveri](https://roveri.faculty.polimi.it/)
+
 Exercise session: [Massimo Pavan](https://pavmassimo.github.io/)
 
 Course Program (video links for POLIMI students): 
