@@ -5,7 +5,7 @@ Lecturer: Prof. [Manuel Roveri](https://roveri.faculty.polimi.it/)
 
 Exercise session: [Massimo Pavan](https://pavmassimo.github.io/)
 
-Course Program (video links for POLIMI students): 
+## Course Program (video links for POLIMI students): 
 
 - Lectures: 
   - 01 - Intro to the course ([video](https://politecnicomilano.webex.com/webappng/sites/politecnicomilano/recording/fd53888f94c0103b9b67005056812ecb/playback))
