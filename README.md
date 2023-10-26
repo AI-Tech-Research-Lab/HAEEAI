@@ -6,7 +6,7 @@ Lecturer: Prof. [Manuel Roveri](https://roveri.faculty.polimi.it/)
 Exercise session: [Massimo Pavan](https://pavmassimo.github.io/)
 
 <p align="center">
-    <img width="200" src="(https://github.com/AI-Tech-Research-Lab/HAEEAI/assets/15632855/c84fecb4-1aa1-4e68-8ad5-35054822b568)" alt="Logo_Politecnico_Milano
+    ![Logo_Politecnico_Milano](https://github.com/AI-Tech-Research-Lab/HAEEAI/assets/15632855/c84fecb4-1aa1-4e68-8ad5-35054822b568)
 </p>
 
 ## Course Program (video links for POLIMI students): 
